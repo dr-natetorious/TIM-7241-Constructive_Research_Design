@@ -11,4 +11,3 @@ H. Park, S. Park and Y. Joo, "Robust Real-time Detection of Abandoned Objects us
 ## Detection of a human head on low-quality image (2019)
 
 Yudin, D., Ivanov, A., and Shchendrygin, M.: DETECTION OF A HUMAN HEAD ON A LOW-QUALITY IMAGE AND ITS SOFTWARE IMPLEMENTATION, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W12, 237–241, doi: [https://doi.org/10.5194/isprs-archives-XLII-2-W12-237-2019](10.5194/isprs-archives-XLII-2-W12-237-2019), 2019.
-
