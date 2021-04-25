@@ -10,4 +10,8 @@ H. Park, S. Park and Y. Joo, "Robust Real-time Detection of Abandoned Objects us
 
 ## Detection of a human head on low-quality image (2019)
 
-Yudin, D., Ivanov, A., and Shchendrygin, M.: DETECTION OF A HUMAN HEAD ON A LOW-QUALITY IMAGE AND ITS SOFTWARE IMPLEMENTATION, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W12, 237–241, doi: [https://doi.org/10.5194/isprs-archives-XLII-2-W12-237-2019](10.5194/isprs-archives-XLII-2-W12-237-2019), 2019.
+Yudin, D., Ivanov, A., and Shchendrygin, M.: DETECTION OF A HUMAN HEAD ON A LOW-QUALITY IMAGE AND ITS SOFTWARE IMPLEMENTATION, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W12, 237–241, doi: [https://doi.org/10.5194/isprs-archives-XLII-2-W12-237-2019](10.5194/isprs-archives-XLII-2-W12-237-2019), 2019. [LowQualityImage.pdf](LowQualityImage.pdf).
+
+## Low-cost Fire Detection System using a Thermal Camera (2018)
+
+Nam, Y.-C., & Nam, Y. (2018). A Low-cost Fire Detection System using a Thermal Camera. KSII Transactions on Internet and Information Systems, 12(3), 1301. doi: [https://doi-org.proxy1.ncu.edu/10.3837/tiis.2018.03.018](10.3837/tiis.2018.03.018). [FireDetection.pdf](FireDetection.pdf).
