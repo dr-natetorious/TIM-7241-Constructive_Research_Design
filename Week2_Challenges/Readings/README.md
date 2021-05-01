@@ -6,6 +6,27 @@ Office of the Secretary (1979). The Belmont Report. [hhs.gov](https://www.hhs.go
 
 > This link will take you to the original Belmont Report that is a seminal document outlining ethical principles and guidelines on research involving human subjects.
 
+It was the summer of 1972 when a stunned nation first learned of the infamous Tuskegee Syphilis Study, during which hundreds of poor, diseasestricken black men from Macon County Alabama, had been deliberately left untreated for 40 years. Coming on the heels of multiple, earlier examples of
+unethical human experimentation, the Tuskegee Syphilis Study made it plain that the moral foundation of human subject research was in desperate need of repair. Blind reliance on the Nuremberg Code and the Declaration of Helsinki was no longer going to suffice. It was against this backdrop
+that Congress resolved to act. Numerous hearings and multiple spirited discussions later, an agreement was struck to constitute the "Commission." The
+outgrowth of a retreat held at the Smithsonian Institution’s Belmont Conference Center, the Belmont Report lays out a principled analytical framework to "guide the resolution of ethical problems arising from research involving human subjects."
+
+### What are the three principals
+
+The Belmont Report summarizes ethical principles and guidelines for research involving human subjects. Three core principles are identified: `respect for persons, beneficence, and justice`.
+
+## The Belmont Report at 40: Reckoning With Time (2018)
+
+Adashi, E. Y., Walters, L. B., & Menikoff, J. A. (2018). The Belmont Report at 40: Reckoning With Time. American Journal of Public Health, 108(10), 1345–1348. [EBSCO](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=s3h&AN=131743373&site=eds-live). [Belmost_40yrs_later](Belmost_40yrs_later.pdf).
+
+Essentially, the Belmont Report says that "the Commission took the view that risk-laden, albeit promising research, may not be justified merely on the strength of its potential social benefits [...] rejected the notion of "for the greater good of the greater number" as an ethical rationale for
+the conduct of risk-encumbered, if auspicious, research. In subscribing to the foregoing positions, the Commission reflected widely held sentiments of its time according to which "scientific research must be supported. It must be encouraged. But it must go forth with the minimal possible risk to research subjects."
+
+However, it also makes a distinction between research and practice of medicine.  There is also critism that its three principals are too abstract, at best an "analytical framework."
+
+> Some of the more penetrating questions that have been raised concern the judgement of the Commission in placing protectionism ahead of utilitarianism and individualism ahead of communitarianism. These concerns, first illustrated by the HIV/AIDS epidemic, fault the Report for excluding marginalized, often disempowered and resource-poor communities that are now desirous of participation in research.18,19 Additional concerns have focused on the lack of emphasis on transparency, the relevance of which to the commercialization of present-day research is self-evident. The absence of the all-important
+feminist perspective has been similarly lamented.21 Lastly, it has been noted that the research–practice distinction in presentday learning health care systems is disappearing, for which a novel framework was originally proposed.
+
 ## Discourse Ethics to Value Sensitive Design (2011)
 
 Yetim, F. (2011). Bringing discourse ethics to value sensitive design: Pathways toward a deliberative future. AIS Transactions on Human Computer Interaction 3(2), 133-155. [aisnet](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1030&context=thci).  [DiscourseEthics](DiscourseEthics.pdf).
@@ -25,7 +46,14 @@ This article outlines several interesting challenges; specifically, (Foucauldian
 - Conflict of Interest
 - Mortal standards
 - Legality grey zones
-- Agenda
+- Agendas
+- Professional Codes
+
+Consider:
+
+> Over time, analysts have become obsessed with the question of whether a company meets its quarterly EPS numbers, and not with whether a company is built to last … this shift from long-term-thinking to short-term results has echoed through to company managements and to professional investors. The focus on short-term results has … had a counterproductive influence on companies, on investors and on analysts themselves. (pg. 114)
+
+The analysts are ethical, yet they are not acting in the clients best interest.
 
 ## A Hands-on introduction to thatic analysis (2017)
 
@@ -35,7 +63,7 @@ Language (e.g., verbal and visual) 'constructs' relatity.  Look at what people a
 
 ### Who is Michel Foucault
 
-Michel Foucault, the French social theorist, was particularly interested in how processes of classification and categorization proliferated during and following the enlightenment period (17th Century).  Foucault (1977, 1979) points to how this proliferation was closely tied to changes in society, notably the expansion of the population and growing urbanization and industrialization. Such changes prompted the necessity for more effective forms of what Foucault termed “governance” – which refers to all the ways through which populations are regulated and governed.  Foucault argues that these governance processes were directly responsible for producing categories of “being” that we all take for granted in our current epoch, such as academic ability; mental stability; sexual orientation and so forth.  The point he makes is not that these categories did not exist prior to this time, but rather, similar to the example of body size above, they became central and defining characteristics of modern personhood for particular reasons at a particular time.  Specifically, contemporary categories of being are closely aligned with the needs of a capitalist economy and the need for individuals to be productive in both a biological and physical sense (see Rose, 1990; 1996).
+Michel Foucault, the French social theorist, was particularly interested in `how processes of classification and categorization proliferated during and following the enlightenment period` (17th Century).  Foucault (1977, 1979) points to how this proliferation was closely tied to changes in society, notably the expansion of the population and growing urbanization and industrialization. Such changes prompted the necessity for more effective forms of what Foucault termed "governance" – which refers to all the ways through which populations are regulated and governed.  Foucault argues that these governance processes were directly responsible for producing categories of "being" that we all take for granted in our current epoch, such as academic ability; mental stability; sexual orientation and so forth.  The point he makes is not that these categories did not exist prior to this time, but rather, similar to the example of body size above, they became central and defining characteristics of modern personhood for particular reasons at a particular time.  Specifically, contemporary categories of being are closely aligned with the needs of a capitalist economy and the need for individuals to be productive in both a biological and physical sense (see Rose, 1990; 1996).
 
 ### What is social constructionism (Burr, 2015, ch. 1)
 
@@ -57,3 +85,21 @@ Social justice defines the laws, but the laws change between locations and times
 Within this video Ken asks what we would call "a bottle of water."  As we assign 'truths' to it, our perspective narrows and it pulls in additional expectations and norms.  The bottle doesn't exist within physics, so we need a different label.  Then consider the differences between an art student and environmentalist, where one finds it stylist versus destructive.  `We socially construct what its and that infers its values`.
 
 This means that communities have contraints that they apply predictions and research methodologies.  For instance, a religion could be built around the bottle (e.g., batism), and therefore it would not be appropriate to call it an "abomination"
+
+### What is discourse
+
+- A group of statements which provide a language for talking about -- a way of representing the knowledge about -- a particular topic at a particular historical momembet." (Hall, 1992, p.291)
+
+- Discourse never consists of one statement, one text, one action or one source.  The same discourse... will appear across a range of texts, and as forms of conduct, at a number of different institutional sites within society (Hall, 1997,p.44)
+
+![discourse.png](discourse.png)
+
+### What is power
+
+- Power is not fixed and held by groups
+- Relation between forces, so where this is power there is resistence
+- Expose implicit values and hidden assumptions underpinning taken for granted knowledge
+
+### How do I perform Foucauldian Discourse Analysis (FDA)
+
+![fda_process.png](fda_process.png)
