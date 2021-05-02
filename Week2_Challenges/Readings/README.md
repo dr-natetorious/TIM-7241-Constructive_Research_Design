@@ -41,6 +41,8 @@ Many procedures "just work out" so it raises more questions around the value of 
 
 > Let us now address this concern that normal principles of equipoise do not apply to special cases where the research project may actually impose a relative disadvantage on those not treated. `It is not just that Bert does not receive the treatment he wants, but when other people receive it they make him worse off` (reducing his chances of getting the ventilator or the grade of A or the full claimed value of the debt). The answer is that Bert is not actually harmed. `Without alleging harm, Bert has no basis to object to Adam or the scientists pursuing their own agendas`.
 >It is true that Adam’s participation sets back Bert’s interests. However, there is a key distinction between a harm and a mere setback to interests. Building on a concept developed by John Stuart Mill, philosopher Joel Feinberg has clarified this relationship. `A “harm” is a “wrongful setback to interests” (emphasis added). Generally, harms (not mere setbacks) are the proper focus of regulation that would restrict liberties`.
+> After all, `setbacks to interest are ubiquitous`. If I prefer that Charlie win the election, but you vote for Davis, then you set back my interests. If I am hoping to get a coveted job, but you submit your stellar resume, then you set back my interests. If am hoping to get an A in a curved school class, but you spend extra time studying, you set back my interests. If I need a ventilator, but you get an investigational drug that gives you a better prognosis, you set back my interests. If I am wanting to collect $10,000 for the debt, but you go to court and get a judgment allowing
+me to recover only $1,000, then you set back my interests.
 
 ## Discourse Ethics to Value Sensitive Design (2011)
 
@@ -118,3 +120,7 @@ This means that communities have contraints that they apply predictions and rese
 ### How do I perform Foucauldian Discourse Analysis (FDA)
 
 ![fda_process.png](fda_process.png)
+
+## Post-Foucauldian Discourse and Dispositif Analysis in the Post-Socialist Field of Research (2021)
+
+Nowicka-Franczak, M. (2021). Post-Foucauldian Discourse and Dispositif Analysis in the Post-Socialist Field of Research: Methodological Remarks. Qualitative Sociology Review, 17(1), 72–95. [EBSCO](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=edo&AN=148691756&site=eds-live). [PostFoucouldian.pdf](PostFoucouldian.pdf).
