@@ -27,6 +27,21 @@ However, it also makes a distinction between research and practice of medicine. 
 > Some of the more penetrating questions that have been raised concern the judgement of the Commission in placing protectionism ahead of utilitarianism and individualism ahead of communitarianism. These concerns, first illustrated by the HIV/AIDS epidemic, fault the Report for excluding marginalized, often disempowered and resource-poor communities that are now desirous of participation in research.18,19 Additional concerns have focused on the lack of emphasis on transparency, the relevance of which to the commercialization of present-day research is self-evident. The absence of the all-important
 feminist perspective has been similarly lamented.21 Lastly, it has been noted that the research–practice distinction in presentday learning health care systems is disappearing, for which a novel framework was originally proposed.
 
+## The Ethics of Research That May Disadvantage Others (2021)
+
+Robertson, C. (2021). The Ethics of Research That May Disadvantage Others. Ethics & Human Research, 43(1), 2–16. [doi](https://doi-org.proxy1.ncu.edu/10.1002/eahr.500074). [EthicsResearchDisadvantage](EthicsResearchDisadvantage.pdf).
+
+The authors frame the problem within the medical community.  Historically, researchers exclude "non-white males" from their study group, which raises questions toward the accuracy of results.  However, this also means that treatments are easier to release due to sampling bias.
+
+Many procedures "just work out" so it raises more questions around the value of inclusion.  Specifically, should the additional studies occurred, before coming to the same conclusion?  This is a double edge sword, as people would die during that time.
+
+> A particular provision in the Common Rule reflects this insight. “The IRB should not consider possible long-range effects of applying knowledge gained in the research … as among those research risks that fall within the purview of its responsibility”. Accordingly, Hausman explains that the IRB `must focus on the risks of the research process itself, not “outcome-related risks.” The fact that Adam may go on to get a ventilator or win an A-grade or discharge a debt is precisely this sort of downstream consequence that is beyond the purview of ethical gatekeeping, even if the regulator had a preference as to that outcome`."
+
+### Considering the distinction of harm and setback
+
+> Let us now address this concern that normal principles of equipoise do not apply to special cases where the research project may actually impose a relative disadvantage on those not treated. `It is not just that Bert does not receive the treatment he wants, but when other people receive it they make him worse off` (reducing his chances of getting the ventilator or the grade of A or the full claimed value of the debt). The answer is that Bert is not actually harmed. `Without alleging harm, Bert has no basis to object to Adam or the scientists pursuing their own agendas`.
+>It is true that Adam’s participation sets back Bert’s interests. However, there is a key distinction between a harm and a mere setback to interests. Building on a concept developed by John Stuart Mill, philosopher Joel Feinberg has clarified this relationship. `A “harm” is a “wrongful setback to interests” (emphasis added). Generally, harms (not mere setbacks) are the proper focus of regulation that would restrict liberties`.
+
 ## Discourse Ethics to Value Sensitive Design (2011)
 
 Yetim, F. (2011). Bringing discourse ethics to value sensitive design: Pathways toward a deliberative future. AIS Transactions on Human Computer Interaction 3(2), 133-155. [aisnet](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1030&context=thci).  [DiscourseEthics](DiscourseEthics.pdf).
