@@ -25,3 +25,7 @@ Peffers, K., Tuunanen, T., Rothenberger, M. A., & Chatterjee, S. (2007). A desig
 ## Developing design propositions (2008)
 
 Denyer, D., Tranfield, D., & Van Aken, J. E. (2008). Developing design propositions through research synthesis. Organization studies, 29(3), 393-413. doi: 10.1177/0170840607088020. [DesignPropositions](DesignPropositions.pdf).
+
+## Graphical Programming Language and Its Supporting Tool for Insect Intelligent Building (2020)
+
+Chen, W., Yang, Q., Zhao, S., Xing, J., & Zhou, Q. (2020). A Graphical Programming Language and Its Supporting Tool for Insect Intelligent Building. Scientific Programming, 1–18. doi: 10.1155/2020/9634389.  [GraphicalLanguage](GraphicalLanguage.pdf).
