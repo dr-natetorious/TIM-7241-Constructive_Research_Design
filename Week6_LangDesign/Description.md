@@ -1,0 +1,7 @@
+# Programming Language Design
+
+Computer languages have many uses in all scientific fields. The first implementation of C++ was a radical departure from how programming had previously been done, but the introduction of object-orientation to the C family of languages was a game-changer. MATLAB—when first introduced—offered enormous capabilities to engineers and scientists for data analysis.
+
+Languages are a bit more difficult to test. But your tests depend on what you're trying to accomplish. Are you looking for a language whose compiler is better at optimization? Measure and evaluate things like the number of compiled lines and actual processing cycles. You'll also need to find some good representative test data. Are you looking for a language that's easier to learn? You'll need to come up with a plan to teach that language to real students and evaluate their progress. How about a language that requires fewer lines of code for most operations? You'll have to compare the relative sizes of programs that do the same thing. And again, you'll need good representative test data.
+
+New programming languages are being proposed all the time. Languages, domain-specific languages, and language extensions are used for solving all sorts of problems. This week, you will study recent developments in programming languages and domain-specific languages, as well as the research problems these artifacts help solve.
