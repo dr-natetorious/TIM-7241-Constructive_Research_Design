@@ -27,7 +27,3 @@ Tun, S. Y. Y., Madanian, S., & Mirza, F. (2021). Internet of things (IoT) applic
 ## Google Duplex Artificial Intelligence Solution for Elderly Care (2019)
 
 D. Ganesh, G. Seshadri, S. Sokkanarayanan, S. Rajan and M. Sathiyanarayanan, "IoT-based Google Duplex Artificial Intelligence Solution for Elderly Care," 2019 International Conference on contemporary Computing and Informatics (IC3I), 2019, pp. 234-240, [doi](https://doi-org.proxy1.ncu.edu/10.1109/IC3I46837.2019.9055551). [GoogleDuplex](GoogleDuplex.pdf).
-
-## New Challenges from IoT (2014)
-
-Sinha A. The New Security Challenges From IoT. PC Quest. August 2014:40-42. Accessed June 9, 2021. [EBSCO](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=edb&AN=97597871&site=eds-live). 
