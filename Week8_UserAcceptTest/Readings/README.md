@@ -84,14 +84,36 @@ The service assumes that patients with Alzheimers `remember` to use it.  This si
 
 Video monitoring services can fill this gap and provide those capabilities.
 
-## Privacy Enhanced Cloud-Based Facial Recognition (2021)
-
-Yang, T., Zhang, Y., Sun, J., & Wang, X. (2021). Privacy Enhanced Cloud-Based Facial Recognition. Neural Processing Letters, 1. [doi](https://doi-org.proxy1.ncu.edu/10.1007/s11063-021-10477-y) [PrivacyEnhancedFacialRecog](PrivacyEnhancedFacialRecog.pdf).
-
 ## IoT applications for elderly care (2021)
 
 Tun, S. Y. Y., Madanian, S., & Mirza, F. (2021). Internet of things (IoT) applications for elderly care: a reflective review. Aging Clinical & Experimental Research, 33(4), 855–867. [doi](https://doi-org.proxy1.ncu.edu/10.1007/s40520-020-01545-9). [IoT_elderly_care](IoT_elderly_care.pdf).
 
+The authors conduct a survey of IoT wearables, which extend the time seniors can live in resident.  This scenario has numerous caveats and introduces implementation risk.
+
+### Any challenges/limitations
+
+Focusing on wearable IoT provides solutions to many core scenarios.  However, elderly with (pre-)dimensia are unlikely to `remember` to wear those devices.  Instead, there needs to be mechanisms for detecting these scenarios without wearables.
+
+### What scenarios use IoT + ElderlyCare
+
+![elderly_use_case.png](elderly_use_case.png)
+
+## Privacy Enhanced Cloud-Based Facial Recognition (2021)
+
+Yang, T., Zhang, Y., Sun, J., & Wang, X. (2021). Privacy Enhanced Cloud-Based Facial Recognition. Neural Processing Letters, 1. [doi](https://doi-org.proxy1.ncu.edu/10.1007/s11063-021-10477-y) [PrivacyEnhancedFacialRecog](PrivacyEnhancedFacialRecog.pdf).
+
+The authors recommend a client/server distributed model for homomorphic encryption.  This topology makes the notion of embedded system facial recognition more plausible in these low-resource environments.
+
 ## Google Duplex Artificial Intelligence Solution for Elderly Care (2019)
 
 D. Ganesh, G. Seshadri, S. Sokkanarayanan, S. Rajan and M. Sathiyanarayanan, "IoT-based Google Duplex Artificial Intelligence Solution for Elderly Care," 2019 International Conference on contemporary Computing and Informatics (IC3I), 2019, pp. 234-240, [doi](https://doi-org.proxy1.ncu.edu/10.1109/IC3I46837.2019.9055551). [GoogleDuplex](GoogleDuplex.pdf).
+
+The authors describe a "smartbed" that uses to determine the state of the person.
+
+![sensors.png](sensors.png)
+
+### How do users interact with the system
+
+Users outside of the "smart pajamas" need to use voice communication
+
+![duplex_interaction.png](duplex_interaction.png)
