@@ -4,9 +4,63 @@
 
 K. Elloumi, N. Ayadi, H. Medhaffar and D. Ben Halima Abid, "Towards an Integration of “SmartHome” Technology in Education: Realization of a didactic platform," 2020 17th International Multi-Conference on Systems, Signals & Devices (SSD), 2020, pp. 338-342, [doi](https://doi-org.proxy1.ncu.edu/10.1109/SSD49366.2020.9364238). [IntegrationSmartHome](IntegrationSmartHome.pdf).
 
+The authors discuss the growing interest in smarthomes, which _consists essentially on recognition of the requirements of a smart house in terms of energy management, security and comfort._.  
+
+However, its  challenging for general users to building with these systems.  These issues exist because graduate students must understand networking, sensors, embedded systems, and related concepts.  Their solution mitigates these issues with a `smarthouse operating system`.
+
+### How does the didactic (teaching) system work
+
+> This paper deals with designing and controlling of a `didactic smart home model` through implementation of home automation applications. Treated applications are essentially:
+
+- Lighting management
+- Access control to the house and the garage
+- Air conditioning and heating management
+- Management of alarms and alerts in real time: temperature alert, gas alert and smoke alert
+- Management of opening and closing of window shutters
+- Management of irrigation system
+- Fire and gas leak detection
+
+Users can send text messages to an Ardunio controller and change different configuration details.  For instance, placing the home in "winter or summer" mode changes the humdity, temperature, and irrigation settings.
+
+The authors use a CNC machine to print a "small house" (~1 cubic foot); and then connect everything to Andrino controllers.
+
+![didactic.png](didactic.png)
+
+## I3D: a new dataset for testing denoising and demosaicing algorithms (2020)
+
+Bonanomi, C., Balletti, S., Lecca, M. et al. I3D: a new dataset for testing denoising and demosaicing algorithms. Multimed Tools Appl 79, 8599–8626 (2020). [doi](https://doi-org.proxy1.ncu.edu/10.1007/s11042-018-6396-4). [I3D.pdf](I3D.pdf).
+
+When cameras capture a frame, there is an encoding from RGB to CFA (Color Filter Array) that introduces variability in lighting and color values.  Researchers mitigates these issues with I3D algorithms that seek to reduce the variability between two frames.
+
+Typically Demosaicing (frame construction) and Denoising (external noise) are seperate processes.  The authors propose a mechanism that unifies both scenarios within the same broader operation.
+
 ## Toyota Smarthome (2019)
 
 S. Das et al., "Toyota Smarthome: Real-World Activities of Daily Living," 2019 IEEE/CVF International Conference on Computer Vision (ICCV), 2019, pp. 833-842, [doi](https://doi-org.proxy1.ncu.edu/10.1109/ICCV.2019.00092). [ToyotaSmarthome](ToyotaSmarthome.pdf).
+
+Essentially the authors record 16K videos of seniors operating within an elderly care center.  Those videos contain RGB+D data (see [Litomisky, 2012](RGBD-intro.pdf)) (e.g., Microsoft Kinect Sensor).  Researchers can use this information to build models for predicting `daily activities within the home`.
+
+> Most of the large activity recognition datasets consist of data sourced from the web, which does not reflect challenges that exist in activities of daily living. In this paper, we introduce a large real-world video dataset for activities of daily living: Toyota Smarthome. `The dataset consists of 16K RGB+D clips of 31 activity classes, performed by seniors in a smarthome. Unlike previous datasets, videos were fully unscripted`.
+>[...]
+> As a result, the dataset poses several challenges: high intra-class variation, high class imbalance, simple and composite activities, and activities with similar motion and variable duration. Activities were annotated with both coarse and fine-grained labels. These characteristics differentiate Toyota Smarthome from other datasets for activity recognition.
+>[...]
+> Most available activity recognition datasets [...] introduce data bias as they mainly contain activities concerning sports, outdoor activities and playing instruments.
+
+### What did Toyota do
+
+The frames feed into a 3D ConvNet, that accounts for spatiotemporal space.
+
+> To address the real-world challenges in Smarthome, we propose a novel attention mechanism on top of currently high-performing spatio-temporal convolutional networks [4] (3D ConvNet). Inspired by [11], our method uses both spatial and temporal attention mechanisms. We dissociate the spatial and temporal attention mechanisms (instead of coupling them).
+
+![toyota.png](toyota.png)
+
+### What challenges did Toyota encounter
+
+Real-world datasets are out-of-frame, low-resolution, and low-frame count.  The video duration also tends to be fairly short.  These issues make web-based training data (e.g., YouTube) incompatible with Smarthome RTSP cameras.
+
+Further, its challenging to encode the time and space movement.  Researchers devise various algorithms (e.g., Two-stream ConvNet), however, these fall apart with large data volumes.  There needs to be more attention to feature selection in these areas.
+
+They address these issues with I3D (Image DataSet for Denoising and Demosaicing)-based algorithms.
 
 ## Face Recognition Applied for Smarthome Using System (2019)
 
