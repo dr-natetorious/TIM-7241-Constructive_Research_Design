@@ -26,14 +26,6 @@ The authors use a CNC machine to print a "small house" (~1 cubic foot); and then
 
 ![didactic.png](didactic.png)
 
-## I3D: a new dataset for testing denoising and demosaicing algorithms (2020)
-
-Bonanomi, C., Balletti, S., Lecca, M. et al. I3D: a new dataset for testing denoising and demosaicing algorithms. Multimed Tools Appl 79, 8599–8626 (2020). [doi](https://doi-org.proxy1.ncu.edu/10.1007/s11042-018-6396-4). [I3D.pdf](I3D.pdf).
-
-When cameras capture a frame, there is an encoding from RGB to CFA (Color Filter Array) that introduces variability in lighting and color values.  Researchers mitigates these issues with I3D algorithms that seek to reduce the variability between two frames.
-
-Typically Demosaicing (frame construction) and Denoising (external noise) are seperate processes.  The authors propose a mechanism that unifies both scenarios within the same broader operation.
-
 ## Toyota Smarthome (2019)
 
 S. Das et al., "Toyota Smarthome: Real-World Activities of Daily Living," 2019 IEEE/CVF International Conference on Computer Vision (ICCV), 2019, pp. 833-842, [doi](https://doi-org.proxy1.ncu.edu/10.1109/ICCV.2019.00092). [ToyotaSmarthome](ToyotaSmarthome.pdf).
@@ -56,19 +48,41 @@ The frames feed into a 3D ConvNet, that accounts for spatiotemporal space.
 
 ### What challenges did Toyota encounter
 
-Real-world datasets are out-of-frame, low-resolution, and low-frame count.  The video duration also tends to be fairly short.  These issues make web-based training data (e.g., YouTube) incompatible with Smarthome RTSP cameras.
+Real-world datasets are `out-of-frame, low-resolution, and low-frame count`.  The video duration also tends to be fairly short.  These issues make web-based training data (e.g., YouTube) incompatible with Smarthome RTSP cameras.
 
 Further, its challenging to encode the time and space movement.  Researchers devise various algorithms (e.g., Two-stream ConvNet), however, these fall apart with large data volumes.  There needs to be more attention to feature selection in these areas.
 
 They address these issues with I3D (Image DataSet for Denoising and Demosaicing)-based algorithms.
 
-## Face Recognition Applied for Smarthome Using System (2019)
+## I3D: a new dataset for testing denoising and demosaicing algorithms (2020)
+
+Bonanomi, C., Balletti, S., Lecca, M. et al. I3D: a new dataset for testing denoising and demosaicing algorithms. Multimed Tools Appl 79, 8599–8626 (2020). [doi](https://doi-org.proxy1.ncu.edu/10.1007/s11042-018-6396-4). [I3D.pdf](I3D.pdf).
+
+When cameras capture a frame, there is an encoding from RGB to CFA (Color Filter Array) that introduces variability in lighting and color values.  Researchers mitigates these issues with I3D algorithms that seek to reduce the variability between two frames.
+
+Typically Demosaicing (frame construction) and Denoising (external noise) are seperate processes.  The authors propose a mechanism that unifies both scenarios within the same broader operation.
+
+## Face Recognition Applied for Smarthome Using SoC (2019)
 
 M. S. Nguyen, N. V. Huynh, D. D. Tran and H. T. Ngo, "An Approach of Face Recognition Applied for Smarthome Using System – on – Chip Technology," 2019 International Conference on Advanced Computing and Applications (ACOMP), 2019, pp. 165-170, [doi](https://doi-org.proxy1.ncu.edu/10.1109/ACOMP.2019.00033). [Facial_via_SoC](Facial_via_SoC.pdf).
+
+The authors build an FGPA module that can perform [Haar feature-based cascade classifiers](https://medium.com/analytics-vidhya/haar-cascades-explained-38210e57970d) [[Cached](HaarCascadesExplained)].  Essentially, these are the reason that Keras CNN algorithms use [MaxPooling](https://keras.io/api/layers/pooling_layers/max_pooling2d/).
+
+Their solution detects a face within frame <=250ms from 1 meter distance.
 
 ## Alexa Eldercare Toolbox (2020)
 
 K. Tan, K. Sekhar, J. Wong, J. Holgado, M. Ameer and G. Vesonder, "Alexa Eldercare Toolbox: A Smarthome Solution for the Elderly," 2020 11th IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), 2020, pp. 0806-0812, [doi](https://doi-org.proxy1.ncu.edu/10.1109/UEMCON51285.2020.9298127). [ElderCareToolbox](ElderCareToolbox.pdf).
+
+> This paper examines the issue of providing care to an increasing elderly population presenting a `strong desire to continue living at home`. [...] According to the Population Reference Bureau, the number of Americans aged 65 and older is expected to approximately double by the year 2060, based on figures from 2018. With 95 million people, the `65-and-older group will make up about 23% of the total population` [17]. Moreover, as it is now, `one in ten people aged 65 and older has Alzheimer’s disease`.
+
+The authors present 13 Amazon Alexa skills that assist with changes to Alzheimer's routines.  These essentially serve as a purpose-built checklist of medical instructions.
+
+### Challenges with Eldercare Toolbox
+
+The service assumes that patients with Alzheimers `remember` to use it.  This situation is unlikely to be the case for all patients.  Instead, mechanisms need to serve `more like a parent, less like a stenographer`.
+
+Video monitoring services can fill this gap and provide those capabilities.
 
 ## Privacy Enhanced Cloud-Based Facial Recognition (2021)
 
