@@ -117,3 +117,31 @@ The authors describe a "smartbed" that uses to determine the state of the person
 Users outside of the "smart pajamas" need to use voice communication
 
 ![duplex_interaction.png](duplex_interaction.png)
+
+## Two-Way Video Healthcare System Design (2021)
+
+Yi, C., & Feng, X. (2021). Home Interactive Elderly Care Two-Way Video Healthcare System Design. Journal of Healthcare Engineering, 2021, 6693617. [doi](https://doi-org.proxy1.ncu.edu/10.1155/2021/6693617). [HomeInteractive.pdf](HomeInteractive.pdf).
+
+> In recent years, intelligent rehabilitation has been developed to explore a wider range of rehabilitation training methods and to further improve rehabilitation efficiency.
+
+![two-way_healthcare.png](two-way_healthcare.png).
+
+## Health Care Monitoring System Based on IoT (2020)
+
+Abdulameer, T. H., IBRAHIM, A. A., & Mohammed, A. H. (2020). Design of Health Care Monitoring System Based on Internet of Thing (IOT). 2020 4th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT), Multidisciplinary Studies and Innovative Technologies (ISMSIT), 2020 4th International Symposium On, 1–6. [doi](https://doi-org.proxy1.ncu.edu/10.1109/ISMSIT50672.2020.9254291). [HealthCareMonitoring.pdf](HealthCareMonitoring.pdf).
+
+> Research shows that around 2000 people died every month because of their health's sole carelessness.
+
+### Limitations of research
+
+The authors (once again) build a minature smarthome with Ardunio powering everything.  While Arduino is great product it lacks abstract layers that promote complex software (object oriented versus procedural).  The system is also unrealistic and relies on simulation data.  They partially mitigate issue with external webportal.
+
+However, this approach is not sufficient for enterprise environments.  Futher, it fails to address `fuzzy versus procedural rule sets`.  Within elderly care, subtle "noisy" forecasts health concerns (e.g., falling or potential stroke).
+
+Similar to other researchers, the implementation requires "smart socks" to record biological sensors.
+
+![hc_monitoring.png](hc_monitoring.png).
+
+## IoT/WSN based smart Saskatchewan Healthcare System (2019)
+
+Onasanya, A., Lakkis, S., & Elshakankiri, M. (2019). Implementing IoT/WSN based smart Saskatchewan Healthcare System. Wireless Networks (10220038), 25(7), 3999–4020. [doi](https://doi-org.proxy1.ncu.edu/10.1007/s11276-018-01931-2). [Saskatchewan.pdf](Saskatchewan.pdf).
