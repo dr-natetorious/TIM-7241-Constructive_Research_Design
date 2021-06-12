@@ -66,7 +66,7 @@ Typically Demosaicing (frame construction) and Denoising (external noise) are se
 
 M. S. Nguyen, N. V. Huynh, D. D. Tran and H. T. Ngo, "An Approach of Face Recognition Applied for Smarthome Using System – on – Chip Technology," 2019 International Conference on Advanced Computing and Applications (ACOMP), 2019, pp. 165-170, [doi](https://doi-org.proxy1.ncu.edu/10.1109/ACOMP.2019.00033). [Facial_via_SoC](Facial_via_SoC.pdf).
 
-The authors build an FGPA module that can perform [Haar feature-based cascade classifiers](https://medium.com/analytics-vidhya/haar-cascades-explained-38210e57970d) [[Cached](HaarCascadesExplained)].  Essentially, these are the reason that Keras CNN algorithms use [MaxPooling](https://keras.io/api/layers/pooling_layers/max_pooling2d/).
+The authors build an FGPA module that can perform [Haar feature-based cascade classifiers](https://medium.com/analytics-vidhya/haar-cascades-explained-38210e57970d) [Cached](HaarCascadesExplained)].  Essentially, these are the reason that Keras CNN algorithms use [MaxPooling](https://keras.io/api/layers/pooling_layers/max_pooling2d/).
 
 Their solution detects a face within frame <=250ms from 1 meter distance.
 
