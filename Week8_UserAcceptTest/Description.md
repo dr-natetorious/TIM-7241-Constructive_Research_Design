@@ -1,0 +1,9 @@
+# User Acceptance Testing
+
+Developing artifacts in constructive research raises the issues of their "validity" in measuring what you want to measure. In that respect, you must always make sure they operate as planned from both the perspective of the developer and that of the user. A user acceptance testing (UAT) process ensures this is the case as it provides an evaluation of the system as a whole and not just as a piece of software. If the system does not reflect the requirements, there could be for a number of reasons, including the possibility that the software is not working properly.
+
+The focus of UAT is in the delivery of value the user expects of the system in addition to ensuring it is functional, performs up to the expectations; it is reliable and secure. While the latter aspects would have been tested during development, none of these can ensure the systems fit its purpose. UAT allows for the confirmation that the purpose of the system is met by testing it against real-life scenarios executed by actual users using the documentation developed for them and not professional software testers.
+
+The process comes with additional costs for both the organization that uses the system and the development team. The organization has to divert resources/users from their regular activities to learning/training and testing of the new software while the development team has to observe mainly and record issues raised during the tests. The benefits of this process are that the risk of later failures will be minimized, the users and the organization become confident about the value and anticipated benefits of the systems, and the system can be cleared for service.
+
+Be sure to review this week's resources carefully. You are expected to apply the information from these resources when you prepare your assignments.
